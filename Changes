@@ -1,0 +1,6 @@
+Revision history for Perl extension Bio::ProteinFeatures.
+
+0.01  Sat Sep  6 14:35:18 2003
+	- original version; created by h2xs 1.21 with options
+		-XA Bio::ProteinFeatures
+

@@ -1,0 +1,17 @@
+Bio/ProteinFeatures version 0.01
+================================
+
+
+This module applies several statistical methods on amino acid
+sequences for deriving various useful features for identifying
+sequences and they may be used to measure similarities between
+sequences. You may also use this module to do coarse matching before
+doing Blast.
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 xern <xern@cpan.org>
+
+This module is free software; you can redistribute it or modify it
+under the same terms as Perl itself.
